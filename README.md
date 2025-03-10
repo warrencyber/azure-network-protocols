@@ -252,6 +252,5 @@ Once the Resource Group is selected, you will enter the Resource Group name and 
 |DHCP| DHCP (Dynamic Host Configuration Protocol) is a network management protocol used on Internet Protocol networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 |DNS| DNS or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
 
-<p align="center"><i><b>🌤️"Learn something new, or a new way of approaching something old because there are a few skills that are as valuable as the art of learning.”🌤️</p></i></b>
 
 </details>
